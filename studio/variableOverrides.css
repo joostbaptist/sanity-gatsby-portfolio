@@ -1,5 +1,12 @@
 :root {
   --brand-primary: #18c781;
+  --brand-primary--inverted: white;
   --brand-secondary: #43399e;
-  --font-family-base: Avenir, Helvetica, Arial, sans-serif";
+  --brand-secondary--inverted: white;
+  --font-family-base: Avenir, Helvetica, Arial, sans-serif;
+  --font-family-sans-serif: Avenir, Helvetica, Arial, sans-serif;
+  --text-color: #47484E;
+  /* Main Navigation */
+  --main-navigation-color: #2e286e;
+  --main-navigation-color--inverted: white;
 }
